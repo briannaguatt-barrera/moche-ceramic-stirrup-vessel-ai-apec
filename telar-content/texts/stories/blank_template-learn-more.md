@@ -9,5 +9,5 @@ Sources:
  
 - Donnan, Christopher B. "Moche State Religion: A Unifying Force in Moche Political Organization." \*Ñawpa Pacha\* 14, no. 1 (1976): 1 – 26. [https://www.jstor.org/stable/279117](https://www.jstor.org/stable/279117).
 
-Image: The Metropolitan Museum of Art. "Moche Decorated Ceramics." \*Heilbrunn Timeline of Art History\*. Accessed April 24, 2026. [https://www.metmuseum.org/essays/moche-decorated-ceramics](https://www.metmuseum.org/essays/moche-decorated-ceramics).
+- Image: The Metropolitan Museum of Art. "Moche Decorated Ceramics." \*Heilbrunn Timeline of Art History\*. Accessed April 24, 2026. [https://www.metmuseum.org/essays/moche-decorated-ceramics](https://www.metmuseum.org/essays/moche-decorated-ceramics).
  

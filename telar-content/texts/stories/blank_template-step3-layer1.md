@@ -8,7 +8,7 @@ Sources:
 - Arthur Cotterell. (1997). Ai Apaec (America). In *A Dictionary of World Mythology* (1st ed.). Oxford University Press.[https://www.oxfordreference.com/display/10.1093/acref/9780192177476.001.0001/acref-9780192177476-e-307]
 
 - (PDF) Van Hoek, M. 2017. AIAPAEC in Andean rock art? in: TRACCE - online rock art bulletin, Italy. (n.d.). [https://www.academia.edu/35076642/VAN\_HOEK\_M\_2017\_Aiapaec\_in\_Andean\_Rock\_Art\_In\_TRACCE\_Online\_Rock\_Art\_Bulletin\_Italy]
-
-- Image: AD&A
  
 - PRZĄDKA-GIERSZ, Patrycja. "AI APAEC: ¿UNA DIVINIDAD SUPREMA PREHISPÁNICA O UNA MANIPULACIÓN EN LA TRADUCCIÓN INTERCULTURAL?" *Politeja*, no. 38 (2015): 7 – 16. [http://www.jstor.org/stable/24919948](http://www.jstor.org/stable/24919948).
+
+- Image: AD&A
