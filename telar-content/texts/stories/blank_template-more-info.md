@@ -10,4 +10,5 @@ Sources:
 - Donnan, Christopher B. "Ancient Peruvian Potters' Marks and Their Interpretation through Ethnographic Analogy." *American Antiquity* 36, no. 4 (1971): 460 – 66. https://doi.org/10.2307/278466.
  
 - RUSSELL, GLENN S., and MARGARET A. JACKSON. "Political Economy and Patronage at Cerro Mayal, Peru." *Studies in the History of Art* 63 (2001): 158 – 75. http://www.jstor.org/stable/42622320.
- 
+
+- Image: AD&A
