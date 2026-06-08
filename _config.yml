@@ -8,7 +8,7 @@ url: "https://briannaguatt-barrera.github.io"
 baseurl: "/moche-ceramic-stirrup-vessel-ai-apec"
 author: "Brian N."
 email: "brian1434573@gmail.com "
-telar_theme: "trama" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
+telar_theme: "santa-barbara"
 logo: ""
 telar_language: en
 collection_mode: false

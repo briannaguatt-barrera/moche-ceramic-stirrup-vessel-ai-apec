@@ -2,8 +2,8 @@
 title: "Works Cited"
 ---
 
-Works Cited
-
+                                    Works Cited
+      
 - Todd, Leslie E. A Case Study of a Moche Strobes Galeatus Stirup-Spout Vessel from the Museo Larco Collection. Southeastern College Art Conference Review, 2015.[https://research.ebsco.com/c/fml6nw/viewer/pdf/2lp5vh4vs5?route=details](https://research.ebsco.com/c/fml6nw/viewer/pdf/2lp5vh4vs5?route=details) 
  
 - Smith, Elisabeth. "Object of the Week: Ai-APEC Stirrup Spout Vessel - Sam Stories." Seattle Art Museum, November 30, 2018. [https://samblog.seattleartmuseum.org/2018/11/ai-apec-stirrup-spout-vessel](https://samblog.seattleartmuseum.org/2018/11/ai-apec-stirrup-spout-vessel) 
